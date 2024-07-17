@@ -1,0 +1,2 @@
+ALTER TABLE responses
+DROP COLUMN date;
